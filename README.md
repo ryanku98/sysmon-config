@@ -2,7 +2,7 @@
 
 This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing modified to specifically track XMR mining software.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[sysmonconfig-export.xml](https://github.com/ryanku98/sysmon-config-cryptomining/blob/master/sysmonconfig-export.xml)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[config-cryptocurrency.xml](https://github.com/ryanku98/sysmon-configs/blob/master/config-cryptocurrency.xml)**
 
 Pull requests and issue tickets are welcome, and new additions will be credited in-line or on Git.
 
@@ -18,7 +18,7 @@ sysmon -accepteula -i
 ### Update existing configuration ###
 Run with administrator rights
 ~~~~
-sysmon -c C:\[Path]\[To]\[File]\sysmonconfig-export.xml
+sysmon -c C:\[Path]\[To]\[File]\config-cryptocurrency.xml
 ~~~~
 
 ### Uninstall ###
