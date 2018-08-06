@@ -1,4 +1,4 @@
-# sysmon-config-cryptomining #
+# sysmon-configs #
 
 This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing modified to specifically track XMR mining software.
 
