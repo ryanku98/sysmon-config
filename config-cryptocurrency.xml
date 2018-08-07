@@ -678,7 +678,7 @@
 			<!--prohash.net-->
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">xmr.prohash.net</DestinationHostname>
 			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">138.201.206.47</DestinationIp>
-			<!--bohemianpool.com
+			<!--bohemianpool.com-->
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">xmr.bohemianpool.com</DestinationHostname>
 			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">80.188.53.27</DestinationIp>
 			<!--crypto-pool.fr-->
