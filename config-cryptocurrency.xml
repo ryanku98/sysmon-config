@@ -1534,6 +1534,93 @@
 			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">45.76.23.212</DestinationIp>
 			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">45.77.60.40</DestinationIp>
 			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">45.32.121.199</DestinationIp>
+			<!--SECTION: BROWSER MINING-->
+			<!--coinhive.com-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">coinhive.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">coin-hive.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">authedmine.com</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6814:d13b</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6814:d03b</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.20.208.59</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.20.209.59</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">217.182.164.9</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">217.182.164.12</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">217.182.164.13</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">217.182.164.10</DestinationIp>
+			<!--crypto-loot.com-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">crypto-loot.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">api.crypto-loot.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cryptoloot.pro</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">gitgrub.pro</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">verifier.live</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6819:61f</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6819:71f</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.25.6.31</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.25.7.31</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::681c:6b7</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::681c:7b7</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.28.7.183</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.28.6.183</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.27.163.69</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.27.162.69</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.24.114.72</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.24.115.72</DestinationIp>
+			<!--coinimp.com-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">coinimp.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">www.hashing.win</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">www.freecontent.bid</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">webassembly.stream</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">hostingcloud.science</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">hostingcloud.date</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">85.17.26.67</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">212.32.255.212</DestinationIp>
+			<!--coin-have.com-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">coin-have.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">minescripts.info</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.minescripts.info</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6812:2e9e</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6812:2f9e</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.18.46.158</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.18.47.158</DestinationIp>
+			<!--moonify.io-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">moonify.io</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">pkg.moonify.io</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">api.moonify.io</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6812:2aca</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">2400:cb00:2048:1::6812:2bca</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.18.43.202</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">104.18.42.202</DestinationIp>
+			<!--deepMiner-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">digxmr.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">github.com/deepwn/deepMiner</DestinationHostname>
+			<!--jsecoin.com-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">jsecoin.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">platform.jsecoin.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">load.jsecoin.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">server.jsecoin.com</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">35.190.24.124</DestinationIp>
+			<!--crypto-webminer.com-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">crypto-webminer.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">ethtrader.de</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">94.16.113.104</DestinationIp>
+			<!--minr.pw-->
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">minr.pw</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cnt.statistic.date</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.static-cnt.bid</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">ad.g-content.bid</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">hallaert.online</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.jquery.uim.download</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">xy.nullrefexcep.com</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">st.kjli.fi</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">host.d-ns.ga</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">abc.pema.cl</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">metrika.ron.si</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.rove.cl</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">static.hk.rs</DestinationHostname>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">178.62.227.52</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">198.54.117.200</DestinationIp>
+			<DestinationIp name="Alert=Cryptocurrency Mining Pool" condition="contains">95.46.44.59</DestinationIp>
+
 			<!--Suspicious sources for network-connecting binaries-->
 			<Image condition="begin with">C:\Users</Image> <!--Tools downloaded by users can use other processes for networking, but this is a very valuable indicator.-->
 			<Image condition="begin with">C:\ProgramData</Image> <!--Normally, network communications should be sourced from "Program Files" not from ProgramData, something to look at-->
