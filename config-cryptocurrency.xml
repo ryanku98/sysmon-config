@@ -1609,7 +1609,7 @@
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.static-cnt.bid</DestinationHostname>
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">ad.g-content.bid</DestinationHostname>
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">hallaert.online</DestinationHostname>
-			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.jquery.uim.download</DestinationHostname>
+			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">cdn.jquery-uim.download</DestinationHostname>
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">xy.nullrefexcep.com</DestinationHostname>
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">st.kjli.fi</DestinationHostname>
 			<DestinationHostname name="Alert=Cryptocurrency Mining Pool" condition="contains">host.d-ns.ga</DestinationHostname>
